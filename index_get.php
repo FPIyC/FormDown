@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <form action="" method="get">
-            <input type="checkbox" name="r" value="0.5" id="raton"/> 
+            <input type="checkbox" name="r" value="0.5" id="raton2"/> 
             <label for="raton">Ratón</label><br/>
             <input type="checkbox" name="m" value="1" id="monitor"/> 
             <label for="monitor">Monitor</label><br/>
